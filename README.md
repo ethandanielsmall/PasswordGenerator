@@ -10,7 +10,7 @@ This password generator website is designed to generate a customizable password.
 
 ## Link to deployed application
 
-Deployed application: (https://ethandanielsmall.github.io/horiseon-html-refactor/)
+Deployed application: (https://ethandanielsmall.github.io/PasswordGenerator/)
 
 ## Source code
 
