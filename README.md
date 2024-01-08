@@ -6,7 +6,7 @@ This password generator website is designed to generate a customizable password.
 
 ## Screenshot of the webpage
 
-![screenshot of the webpage] (https://user-images.githubusercontent.com/124843114/224554690-7a332503-3789-4151-8e63-878c3e79ce9b.png)
+![screenshot of the webpage] (https://github.com/ethandanielsmall/PasswordGenerator/blob/main/Assets/03-javascript-homework-demo.png?raw=true)
 
 ## Link to deployed application
 
